@@ -1,0 +1,3 @@
+[submodule "ABCSharp"]
+	path = ABCSharp
+	url = https://github.com/matthewcpp/ABCSharp
