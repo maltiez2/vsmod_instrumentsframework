@@ -51,4 +51,8 @@
   </Content>
 </ItemGroup>
 
+<ItemGroup>
+  <ProjectReference Include="..\..\textplayer\TextPlayer\TextPlayer.csproj" />
+</ItemGroup>
+
 </Project>
