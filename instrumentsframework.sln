@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "instrumentsframework\CakeBuild\CakeBuild.csproj", "{14DFD7A4-BF0F-4BD3-AD47-1948AA0E4260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "instrumentsframework", "instrumentsframework\instrumentsframework\instrumentsframework.csproj", "{2D51FB6C-74D6-44FC-AE06-E7D2CEA0E5D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DFD7A4-BF0F-4BD3-AD47-1948AA0E4260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DFD7A4-BF0F-4BD3-AD47-1948AA0E4260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DFD7A4-BF0F-4BD3-AD47-1948AA0E4260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DFD7A4-BF0F-4BD3-AD47-1948AA0E4260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D51FB6C-74D6-44FC-AE06-E7D2CEA0E5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D51FB6C-74D6-44FC-AE06-E7D2CEA0E5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D51FB6C-74D6-44FC-AE06-E7D2CEA0E5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D51FB6C-74D6-44FC-AE06-E7D2CEA0E5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B16FA79F-5A33-4A6C-A705-EA224DC2FD79}
+	EndGlobalSection
+EndGlobal
