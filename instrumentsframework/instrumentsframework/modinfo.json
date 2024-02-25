@@ -1,13 +1,13 @@
 {
     "type": "code",
     "modid": "instrumentsframework",
-    "name": "instrumentsframework",
+    "name": "Instruments Framework",
     "authors": [
-        "Unknown"
+        "Maltiez"
     ],
-    "description": "To be added",
-    "version": "1.0.0",
+    "description": "",
+    "version": "0.0.0",
     "dependencies": {
-        "game": ""
+        "game": "1.19.3"
     }
 }
